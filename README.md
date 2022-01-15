@@ -19,9 +19,12 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 
 Some of the things I'm currently working on;
 
-* [PodcastIndex.org](https://podcastindex.org/) where I run web spiders to discover new podcast feeds, I've added more than 3.5 Million feeds this far.
+* [PodcastIndex.org](https://podcastindex.org/):
+  *  I run web spiders to discover new podcast feeds
+  * I've added more than 3.5 Million feeds this far.
   * Mapping of languages, all of ISO-639 (ISO-639-1, ISO-639-2B, ISO-639-2T and ISO-639-3) minus sign languages which does not make much sense in regards of audio/video podcasts - not yet active.
   * Self-contained OPML-Editor, with Import/Export functionality with PodcastIndex as search backend. (PHP)
+  * OPML collections nightly, [https://b19.se/data/](https://b19.se/data/)
   * Podcast [feed validation rules](https://github.com/cisene/podcast-map) (RegExp).
   * Podcast [namespace collection](https://gist.github.com/cisene/cf67d4fc9d4d4dc892630cac4a3adcb0) - there is many namespaces, but PodcastIndex have a [namespace](https://github.com/Podcastindex-org/podcast-namespace) to rule them all.
   * Podcast search with PI as backend for Sonos devices, Kodi .. nothing working at the moment.
@@ -36,9 +39,16 @@ Some of the things I'm currently working on;
 
 
 
+If I had more free time on my hands (whatever is left after spending a good chunk of it with family), I'd like to explore a few things;
+
+* Distributed DNS - an idea I have outlined in an old blog post [Thoughts about distributed DNS](https://b19.se/blog/kakbit/2011/06/thoughts-about-distributed-dns/) .. the issue is still interesting since DNS is very much centralized and vulnerable to attacks. 
+
+
+
 I'm learning new stuff;
 
 * Python, which I use daily
+* Rust, on and off .. never get the time.
 
 
 
