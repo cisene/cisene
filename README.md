@@ -20,7 +20,7 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 Some of the things I'm currently working on;
 
 * [PodcastIndex.org](https://podcastindex.org/):
-  *  I run web spiders to discover new podcast feeds
+  * I run web spiders to discover new podcast feeds
   * I've added more than 3.5 Million feeds this far.
   * Mapping of languages, all of ISO-639 (ISO-639-1, ISO-639-2B, ISO-639-2T and ISO-639-3) minus sign languages which does not make much sense in regards of audio/video podcasts - not yet active.
   * Self-contained OPML-Editor, with Import/Export functionality with PodcastIndex as search backend. (PHP)
@@ -49,6 +49,7 @@ I'm learning new stuff;
 
 * Python, which I use daily
 * Rust, on and off .. never get the time.
+* Hive
 
 
 
