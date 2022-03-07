@@ -29,6 +29,7 @@ Some of the things I'm currently working on;
   * Podcast [namespace collection](https://gist.github.com/cisene/cf67d4fc9d4d4dc892630cac4a3adcb0) - there is many namespaces, but PodcastIndex have a [namespace](https://github.com/Podcastindex-org/podcast-namespace) to rule them all.
   * Podcast search with PI as backend for Sonos devices, Kodi .. nothing working at the moment.
 * Swedish Swish 123-numbers [directory](https://github.com/cisene/swish-123) for companies and associations
+  * [Swish-roulette](https://github.com/cisene/swish-roulette) - An attempt to gamify donations by using data from the Swish 123-numbers
 * WMI-directory - World Manufacturer Identifiers, the first 3-6 characters of VIN (Vehicle Identification Number) codes.
 * Home Assistant
   * Small hacks to bring in AQI (Air Quality Index) measurements to HA
