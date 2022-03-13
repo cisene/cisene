@@ -27,9 +27,11 @@ Some of the things I'm currently working on;
   * OPML collections nightly, [https://b19.se/data/](https://b19.se/data/)
   * Podcast [feed validation rules](https://github.com/cisene/podcast-map) (RegExp).
   * Podcast [namespace collection](https://gist.github.com/cisene/cf67d4fc9d4d4dc892630cac4a3adcb0) - there is many namespaces, but PodcastIndex have a [namespace](https://github.com/Podcastindex-org/podcast-namespace) to rule them all.
-  * Podcast search with PI as backend for Sonos devices, Kodi .. nothing working at the moment.
+  * Podcast search with PI as backend for
+    * Sonos devices
+    * Kodi and mediacenter devices
 * Swedish Swish 123-numbers [directory](https://github.com/cisene/swish-123) for companies and associations
-  * [Swish-roulette](https://github.com/cisene/swish-roulette) - An attempt to gamify donations by using data from the Swish 123-numbers
+  * [Swish-roulette](https://github.com/cisene/swish-roulette) - An attempt to gamify donations by using data from the Swish 123-numbers - soon online.
 * WMI-directory - World Manufacturer Identifiers, the first 3-6 characters of VIN (Vehicle Identification Number) codes.
 * Home Assistant
   * Small hacks to bring in AQI (Air Quality Index) measurements to HA
@@ -42,7 +44,7 @@ Some of the things I'm currently working on;
 
 If I had more free time on my hands (whatever is left after spending a good chunk of it with family), I'd like to explore a few things;
 
-* Distributed DNS - an idea I have outlined in an old blog post [Thoughts about distributed DNS](https://b19.se/blog/kakbit/2011/06/thoughts-about-distributed-dns/) .. the issue is still interesting since DNS is very much centralized and vulnerable to attacks. 
+* More crypto-stuff
 
 
 
