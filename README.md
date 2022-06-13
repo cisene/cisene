@@ -25,7 +25,11 @@ Some of the things I'm currently working on;
   * Mapping of languages, all of ISO-639 (ISO-639-1, ISO-639-2B, ISO-639-2T and ISO-639-3) minus sign languages which does not make much sense in regards of audio/video podcasts - not yet active.
   * Self-contained OPML-Editor, with Import/Export functionality with PodcastIndex as search backend. (PHP)
   * OPML collections nightly, [https://b19.se/data/](https://b19.se/data/)
-  * Podcast [feed validation rules](https://github.com/cisene/podcast-map) (RegExp).
+  * Podcast [feed validation rules](https://github.com/cisene/podcast-map) through use of Regular Expressions, regex for short. This is to be able to map, deduce if a feed URL looks valid before even ingesting or verifying.
+    * 405 Toplevel domains covered.
+    * Almost 75000 domains.
+    * Over 100000 rules/patterns.
+    * Available in XML and JSON-flavoured files.
   * Podcast [namespace collection](https://gist.github.com/cisene/cf67d4fc9d4d4dc892630cac4a3adcb0) - there is many namespaces, but PodcastIndex have a [namespace](https://github.com/Podcastindex-org/podcast-namespace) to rule them all.
   * Podcast search with PI as backend for
     * Sonos devices
