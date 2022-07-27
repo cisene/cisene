@@ -41,7 +41,8 @@ Some of the things I'm currently working on;
   * [Libre-WMI](https://github.com/cisene/libre-wmi) - WMI-data in simple forms, XML, YAML and JSON.
 * Home Assistant
   * Small hacks to bring in AQI (Air Quality Index) measurements to HA
-
+* Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
+  * Shoe sizes in millimeter, EU and US [shoe-sizes](https://github.com/cisene/data-available/INT/shoe-sizes.yaml)
 
 
 ... and plenty more. Only the current ones listed above.
