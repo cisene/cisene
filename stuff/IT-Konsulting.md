@@ -11,7 +11,7 @@ De som regelbundet provar IT-konsulting blir alltid förändrade. Det börjar me
 Vad beror det på att man börjar med IT-konsulting? Ofta beror det på att man är osäker på sig själv, eller att man vill testa något nytt, något "häftigt".
 Kanske för att man är nyfiken, kanske för att passa in i gänget och få kompisar - men också som ett led i processen att bli vuxen. Eller så kan man vilja fly bort från verkligheten.
 
-Föreningen Mot IT-konsulting (FMITK) har gjort en lista över förändringar som kan tyda på att ngn i ens närhet har börjat med IT-konsulting.
+Föreningen Mot IT-konsulting (FMITK) har gjort en lista över förändringar som kan tyda på att någon i ens närhet har börjat med IT-konsulting.
 
    Här är listan:
 
