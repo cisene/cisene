@@ -4934,7 +4934,7 @@ Den dag jag kan se honom i ögonen och yttra orden "jag säger upp mig... och f�
 
 Keywords: jobb
 
-Lunchade med kamrat Tommy (Kejsare av Tommyland) idag, Thai Classic, riktigt gott.
+Lunchade med Kamrat T idag, Thai Classic, riktigt gott.
 
 Ett av jobben har hört av sig och vill att jag skall infinna mig hos dem klockan 12 på torsdag, jag måste nog be dem lägga det senare, för jag vet inte hur jag skall kunna bortförklara ett "ärende" mitt på dagen, hade det varit senare på eftermiddagen skulle jag lätt komma undan med det. Jag vill ju inte att "chefen" skall få veta något och vill därför inte tala om att jag skall på anställnings intervju, eller vad man nu skall kalla det. Efter 16, då får jag tid på mig att ta mig dit.
 
@@ -8546,7 +8546,7 @@ Jag skulle med andra ord kunna bullshitta kollegan M ganska hårt, snurra upp de
 
 Keywords: ajax ean13 flytta jobb mx php spf
 
-En ganska händelselös dag, förutom att jag lunchade med Tommy på [Beirut Seller](http://www.beirutseller.com/) och handlade flyttkartonger på Coop.
+En ganska händelselös dag, förutom att jag lunchade med Kamrat T på [Beirut Seller](http://www.beirutseller.com/) och handlade flyttkartonger på Coop.
 
 Knåpade lite konverterings-script för projektet jag arbetar med, inga större framgångar än.
 
@@ -8568,7 +8568,7 @@ Idag var det avslutning för flickorna, sista dagen i just den skolan, i höst b
 
 Fick inte så mycket praktiskt gjort på jobbet, däremot fundilerade jag ihop en del lösningar på en del små problem, hur och med vilka metoder man ska normalisera data och scripta in det i den nya strukturen. Med två-tre iterationer genom alla data kommer allt (eller närapå) falla på plats och vi kommer kunna synkronisera upp data när som helst. Imorgon kommer jag implementera det hela, då kan vi bygga ytterligare på GUI-delen.
 
-Imorgon skall jag luncha med kejsaren av Tommyland, Tommy himself, som är i Eskilstuna för att ta körkort. Ska bli kul att träffa honom, det var ett tag sen sist, tror det var när vi var på [Flashfighters Tattoo](http://www.flashfighters.nu/) eller om det vid nåt annat tillfälle.
+Imorgon skall jag luncha med Kamrat T, som är i Eskilstuna för att ta körkort. Ska bli kul att träffa honom, det var ett tag sen sist, tror det var när vi var på [Flashfighters Tattoo](http://www.flashfighters.nu/) eller om det vid nåt annat tillfälle.
 
 Hur som helst, det känns som det är dags för nästa tatuering, jag tror jag har hittat två motiv jag kan trivas med, ett som är hämtat från tv-världen och ett annat som är hämtat från naturen, jag har även funderat på två olika motiv från hällristningar. Det känns som en lång process att bestämma sig, för när man väl lagt sig under nålen så sitter den ju en stund. Det tog 3-4 år att hitta det förra motivet som nu finns på min vänstra överarm, så jag förväntar mig att det kommer ta ungefär lika lång tid att bestämma sig för vad som ska pryda på min högra överarm eller strax under nyckelbenet på höger sida.
 
