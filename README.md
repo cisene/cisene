@@ -1,19 +1,6 @@
 ### Christopher Isene
 
-<!--
-**cisene/cisene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 I'm working on plenty of stuff at all times, I have a hungry mind and I need to keep my brain occupied.
 
@@ -51,7 +38,7 @@ Some of the things I'm currently working on;
 
 If I had more free time on my hands (whatever is left after spending a good chunk of it with family), I'd like to explore a few things;
 
-* More crypto-stuff
+* More crypto-stuff (not crypto currencies and such, real crypto as in cryptography)
 
 
 
