@@ -22,7 +22,7 @@ Kollegan säger (15:07):
 
 jevvlar vad snabb han var... eller så har vi suttit och pladdrat en stund
 
-Mona säger (15:08):
+<namn> säger (15:08):
 
 haha dhysk
 
@@ -30,11 +30,11 @@ Kollegan säger (15:09):
 
 prezision arbeit...
 
-Mona säger (15:10):
+<namn> säger (15:10):
 
 blixtinvasion
 
-Mona säger (15:11):
+<namn> säger (15:11):
 
 typ 1939 polen
 
