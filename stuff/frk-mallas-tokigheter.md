@@ -57,7 +57,7 @@ Måndagsdilemma:
 
 xxx säger (14:59): är jag lat om jag inte orkar gå och hämta kaffe?
 
-Mona säger (15:00):
+<namn> säger (15:00):
 
 jo du ligger nog på gränsen
 
