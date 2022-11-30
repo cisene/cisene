@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <title>Youtube subscriptions</title>
+    <dateCreated>Wed, 30 Nov 2022 16:31:00 GMT</dateCreated>
+    <dateModified>Wed, 30 Nov 2022 16:31:00 GMT</dateModified>
+    <ownerTwitterScreenName>cisene</ownerTwitterScreenName>
+    <ownerName>Christopher Isene</ownerName>
+    <ownerEmail>christopher.isene@gmail.com</ownerEmail>
+    <ownerId>http://twitter.com/cisene</ownerId>
+  </head>
+  <body>
+
+    <outline text="Big Machines">
+      <outline type="link" text="Andrew Camarata" htmlUrl="https://www.youtube.com/@AndrewCamarata" />
+      <outline type="link" text="Diesel Creek" htmlUrl="https://www.youtube.com/@DieselCreek" />
+      <outline type="link" text="Squatch253" htmlUrl="https://www.youtube.com/@squatch253" />
+      <outline type="link" text="Salvage Workshop" htmlUrl="https://www.youtube.com/@SalvageWorkshop" />
+      <outline type="link" text="Kyle Christ" htmlUrl="https://www.youtube.com/@kylechrist" />
+    </outline>
+
+    <outline text="Electronics">
+      <outline type="link" text="BigClive" htmlUrl="https://www.youtube.com/@bigclivedotcom" />
+      <outline type="link" text="CuriousMarc" htmlUrl="https://www.youtube.com/@CuriousMarc" />
+      <outline type="link" text="RECESSIM" htmlUrl="https://www.youtube.com/@RECESSIM" />
+    </outline>
+
+    <outline text="Mechanical work">
+      <outline type="link" text="Marty T" htmlUrl="https://www.youtube.com/@MartyT" />
+      <outline type="link" text="Mike Festiva" htmlUrl="https://www.youtube.com/@Mikefestiva" />
+      <outline type="link" text="Mustie1" htmlUrl="https://www.youtube.com/@mustie1" />
+      <outline type="link" text="Cutting Edge Engineering" htmlUrl="https://www.youtube.com/@CuttingEdgeEngineering" />
+      <outline type="link" text="Steve Summers" htmlUrl="https://www.youtube.com/@SteveSummers" />
+      <outline type="link" text="Watch Wes Work" htmlUrl="https://www.youtube.com/@WatchWesWork" />
+      <outline type="link" text="Vicegrip Garage" htmlUrl="https://www.youtube.com/@ViceGripGarage" />
+      <outline type="link" text="The Questionable Garage" htmlUrl="https://www.youtube.com/@TheQuestionableGarage" />
+      <outline type="link" text="Rebuild Rescue" htmlUrl="https://www.youtube.com/@rebuildrescue" />
+    </outline>
+
+    <outline text="Travel">
+      <outline type="link" text="Anton somewhere" htmlUrl="https://www.youtube.com/@Antonsomewhere" />
+      <outline type="link" text="Walk-About Wayne" htmlUrl="https://www.youtube.com/@WalkAboutWayne" />
+      <outline type="link" text="Flora and Note" htmlUrl="https://www.youtube.com/@FloraandNote" />
+      <outline type="link" text="Good Life in Chiang Mai Thailand" htmlUrl="https://www.youtube.com/@GoodLifeinChiangMaiThailand" />
+      <outline type="link" text="Joel Bruner" htmlUrl="https://www.youtube.com/@joelbruner964" />
+      <outline type="link" text="Vietnam Travel Guide" htmlUrl="https://www.youtube.com/@vietnamtravelguide2537" />
+      <outline type="link" text="Paddy Doyle" htmlUrl="https://www.youtube.com/@PaddyDoyle." />
+      <outline type="link" text="CB Media" htmlUrl="https://www.youtube.com/@CBMedia404" />
+      <outline type="link" text="Kara and Nate" htmlUrl="https://www.youtube.com/@KaraandNate" />
+      <outline type="link" text="Brett Dev" htmlUrl="https://www.youtube.com/@brett_dev" />
+    </outline>
+
+    <outline text="Guntube">
+      <outline type="link" text="Brandon Herrera" htmlUrl="https://www.youtube.com/@BrandonHerrera" />
+      <outline type="link" text="Demolition Ranch" htmlUrl="https://www.youtube.com/@DemolitionRanch" />
+      <outline type="link" text="Kentucky Ballistics" htmlUrl="https://www.youtube.com/@KentuckyBallistics" />
+      <outline type="link" text="Donut Operator" htmlUrl="https://www.youtube.com/@DonutOperator" />
+    </outline>
+
+    <outline text="Dashcam &amp; Reality">
+      <outline type="link" text="Bad Driving Asia" htmlUrl="https://www.youtube.com/@BadDrivingAsia" />
+      <outline type="link" text="Donuts Raw Police Footage" htmlUrl="https://www.youtube.com/@donutsrawpolicefootage1400" />
+    </outline>
+
+    <outline text="Build">
+      <outline type="link" text="Nick Zammeti" htmlUrl="https://www.youtube.com/@nickzammeti" />
+      <outline type="link" text="Red Poppy Ranch" htmlUrl="https://www.youtube.com/@RedPoppyRanch" />
+      <outline type="link" text="Simone Giertz" htmlUrl="https://www.youtube.com/@simonegiertz" />
+      <outline type="link" text="iJessup" htmlUrl="https://www.youtube.com/@ijessup" />
+      <outline type="link" text="Laura Kampf" htmlUrl="https://www.youtube.com/@laurakampf" />
+      <outline type="link" text="Naomi Wu" htmlUrl="https://www.youtube.com/@Naomi-Wu" />
+      <outline type="link" text="Life Uncontained" htmlUrl="https://www.youtube.com/@lifeuncontained3305" />
+      <outline type="link" text="Colin Furze" htmlUrl="https://www.youtube.com/@colinfurze" />
+      <outline type="link" text="Homemade Home" htmlUrl="https://www.youtube.com/@homemadehome5575" />
+      <outline type="link" text="Modustrial Maker" htmlUrl="https://www.youtube.com/@modustrial" />
+      <outline type="link" text="Off the Ranch" htmlUrl="https://www.youtube.com/@OffTheRanch" />
+      <outline type="link" text="Vicegrip Lodge" htmlUrl="https://www.youtube.com/@ViceGripLodge" />
+      <outline type="link" text="Tokyo Llama" htmlUrl="https://www.youtube.com/@TokyoLlama" />
+    </outline>
+
+    <outline text="Restorations">
+      <outline type="link" text="Awesome Restaurations" htmlUrl="https://www.youtube.com/@AwesomeRestorations" />
+    </outline>
+
+    <outline text="Urban Exploration">
+      <outline type="link" text="The Proper People" htmlUrl="https://www.youtube.com/@TheProperPeople" />
+    </outline>
+
+    <outline text="Internet Culture">
+      <outline type="link" text="Internet Comment Etiquette with Erik" htmlUrl="https://www.youtube.com/@commentiquette" />
+      <outline type="link" text="rSlash" htmlUrl="https://www.youtube.com/@rSlash" />
+      <outline type="link" text="Mr Nigel Ng" htmlUrl="https://www.youtube.com/@mrnigelng" />
+      <outline type="link" text="Doodiman" htmlUrl="https://www.youtube.com/@doodieman5801" />
+    </outline>
+
+    <outline text="Animals">
+      <outline type="link" text="Falconry And Me" htmlUrl="https://www.youtube.com/@FalconryAndMe" />
+      <outline type="link" text="Joseph Carter The MinkMan" htmlUrl="https://www.youtube.com/@JosephCartertheMinkMan" />
+    </outline>
+
+    <outline text="Development &amp; Programming">
+      <outline type="link" text="Autistic Millionaire" htmlUrl="https://www.youtube.com/@autisticmillionaire438" />
+      <outline type="link" text="Let's get Rusty" htmlUrl="https://www.youtube.com/@letsgetrusty" />
+      <outline type="link" text="Tan tan dev" htmlUrl="https://www.youtube.com/@Tantandev" />
+    </outline>
+
+    <outline text="Phycical Security">
+      <outline type="link" text="Devian Ollam" htmlUrl="https://www.youtube.com/@DeviantOllam" />
+    </outline>
+
+
+
+  </body>
+</opml>
