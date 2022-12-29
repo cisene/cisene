@@ -6,6 +6,7 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 
 Some of the things I'm currently working on;
 
+* Restoration of [Daily Source Code Podcast](https://github.com/cisene/daily-source-code-podcast) RSS feed
 * [PodcastIndex.org](https://podcastindex.org/):
   * I run web spiders to discover new podcast feeds
   * I've added more than 3.5 Million feeds this far.
