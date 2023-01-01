@@ -24,13 +24,8 @@ Some of the things I'm currently working on;
     * Kodi and mediacenter devices
 * Swedish Swish 123-numbers [directory](https://github.com/cisene/swish-123) for companies and associations
   * [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers - online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
-  * [Swish-roulette](https://github.com/cisene/swish-roulette) - An attempt to gamify donations by using data from the Swish 123-numbers - soon online.
-* WMI-directory - World Manufacturer Identifiers, the first 3-6 characters of VIN (Vehicle Identification Number) codes.
-  * [Libre-WMI](https://github.com/cisene/libre-wmi) - WMI-data in simple forms, XML, YAML and JSON.
-* Home Assistant
-  * Small hacks to bring in AQI (Air Quality Index) measurements to HA
 * Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
-  * Shoe sizes in millimeter, EU and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
+  * Shoe sizes in millimeter, JP, EU and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
 
 
 ... and plenty more. Only the current ones listed above.
