@@ -1,10 +1,10 @@
-### Christopher Isene
+# Christopher Isene
 
 
 
 I'm working on plenty of stuff at all times, I have a hungry mind and I need to keep my brain occupied.
 
-Some of the things I'm currently working on;
+## Some of the things I'm currently working on;
 
 * Restoration of [Daily Source Code Podcast](https://github.com/cisene/daily-source-code-podcast) RSS feed
 * [SE-POI](https://github.com/cisene/se-poi) Swedish POI, Points-of-Interest .. as to scratch an itch for another project.
@@ -46,7 +46,9 @@ I'm learning new stuff;
 * Hive
 
 
-Donation, appreciation and/or monetary support:
+## Donation, appreciation and/or monetary support:
+
 Stellar account ID: GBOWKT3UQUKIBG6OQO73FPN5HAA7FJLGCJI5DSMKPYFCJLY4I7ZQRAPJ
+
 Payment address: cisene*keybase.io
 
