@@ -1,0 +1,266 @@
+---
+movies:
+
+- imdb: tt0086879
+  title: Amadeus
+
+- imdb: tt0081834
+  title: Das Boot
+
+- imdb: tt0111161
+  title: The Shawshank Redemption
+
+- imdb: tt0068646
+  title: The Godfather
+
+- imdb: tt0468569
+  title: The Dark Knight
+
+- imdb: tt0071562
+  title: The Godfather Part II
+
+- imdb: tt0108052
+  title: Schindler's List
+
+- imdb: tt0167260
+  title: "The Lord of the Rings: The Return of the King"
+
+- imdb: tt0110912
+  title: Pulp Fiction
+
+- imdb: tt0120737
+  title: "The Lord of the Rings: The Fellowship of the Ring"
+
+- imdb: tt0060196
+  title: The Good, the Bad and the Ugly
+
+- imdb: tt0109830
+  title: Forrest Gump
+
+- imdb: tt0137523
+  title: Fight Club
+
+- imdb: tt1375666
+  title: Inception
+
+- imdb: tt0167261
+  title: "The Lord of the Rings: The Two Towers"
+
+- imdb: tt0080684
+  title: "Star Wars: Episode V - The Empire Strikes Back"
+
+- imdb: tt0133093
+  title: The Matrix
+
+- imdb: tt0099685
+  title: Goodfellas
+
+- imdb: tt0073486
+  title: One Flew Over the Cuckoo's Nest
+
+- imdb: tt0114369
+  title: Se7en
+
+- imdb: tt0816692
+  title: Interstellar
+
+- imdb: tt0120689
+  title: The Green Mile
+
+- imdb: tt0076759
+  title: "Star Wars: Episode IV - A New Hope"
+
+- imdb: tt0103064
+  title: "Terminator 2: Judgment Day"
+
+- imdb: tt0088763
+  title: Back to the Future
+
+- imdb: tt0245429
+  title: Spirited Away
+
+- imdb: tt0054215
+  title: Psycho
+
+- imdb: tt0253474
+  title: The Pianist
+
+- imdb: tt0110413
+  title: "Léon: The Professional"
+
+- imdb: tt0172495
+  title: Gladiator
+
+- imdb: tt0120586
+  title: American History X
+
+- imdb: tt0407887
+  title: The Departed
+
+- imdb: tt0114814
+  title: The Usual Suspects
+
+- imdb: tt0482571
+  title: The Prestige
+
+- imdb: tt0078788
+  title: Apocalypse Now
+
+- imdb: tt0209144
+  title: Memento
+
+- imdb: tt0082971
+  title: Indiana Jones and the Raiders of the Lost Ark
+
+- imdb: tt0910970
+  title: WALL·E
+
+- imdb: tt0057012
+  title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+
+- imdb: tt0107048
+  title: Groundhog Day
+
+- imdb: tt0070047
+  title: The Exorcist
+
+- imdb: tt0075148
+  title: Rocky
+
+- imdb: tt0091763
+  title: Platoon
+
+- imdb: tt0092005
+  title: Stand by Me
+
+- imdb: tt0088247
+  title: The Terminator
+
+- imdb: tt1392190
+  title: "Mad Max: Fury Road"
+
+- imdb: tt0118715
+  title: The Big Lebowski
+
+- imdb: tt0073195
+  title: Jaws
+
+- imdb: tt0097165
+  title: Dead Poets Society
+
+- imdb: tt0077416
+  title: The Deer Hunter
+
+- imdb: tt0083658
+  title: Blade Runner
+
+- imdb: tt0264464
+  title: Catch Me If You Can
+
+- imdb: tt0120735
+  title: Lock, Stock and Two Smoking Barrels
+
+- imdb: tt0477348
+  title: No Country for Old Men
+
+- imdb: tt0266543
+  title: Finding Nemo
+
+- imdb: tt1130884
+  title: Shutter Island
+
+- imdb: tt0107290
+  title: Jurassic Park
+
+- imdb: tt0268978
+  title: A Beautiful Mind
+
+- imdb: tt0120382
+  title: The Truman Show
+
+- imdb: tt0012349
+  title: The Kid
+
+- imdb: tt0097576
+  title: Indiana Jones and the Last Crusade
+
+- imdb: tt0208092
+  title: Snatch
+
+- imdb: tt0095016
+  title: Die Hard
+
+- imdb: tt0017136
+  title: Metropolis
+
+- imdb: tt0093058
+  title: Full Metal Jacket
+
+- imdb: tt0066921
+  title: A Clockwork Orange
+
+- imdb: tt0033467
+  title: Citizen Kane
+
+- imdb: tt0056172
+  title: Lawrence of Arabia
+
+- imdb: tt0062622
+  title: "2001: A Space Odyssey"
+
+- imdb: tt0338013
+  title: Eternal Sunshine of the Spotless Mind
+
+- imdb: tt0105236
+  title: Reservoir Dogs
+
+- imdb: tt0180093
+  title: Requiem for a Dream
+
+- imdb: tt0087843
+  title: Once Upon a Time in America
+
+- imdb: tt0119217
+  title: Good Will Hunting
+
+- imdb: tt0086879
+  title: Amadeus
+
+- imdb: tt0114709
+  title: Toy Story
+
+- imdb: tt0112573
+  title: Braveheart
+
+- imdb: tt0361748
+  title: Inglourious Basterds
+
+- imdb: tt0081505
+  title: The Shining
+
+- imdb: tt0032553
+  title: The Great Dictator
+
+- imdb: tt0102926
+  title: The Silence of the Lambs
+
+- imdb: tt0064177
+  title: 'Colossus: The Forbin Project'
+
+- imdb: tt0087995
+  title: Repo Man
+
+- imdb: tt1385826
+  title: The Adjustment Bureau
+
+- imdb: tt1879016
+  title: Operation Mincemeat
+
+- imdb: tt1709216
+  title: Operation Mincemeat (Documentary)
+
+- imdb: tt0119116
+  title: The Fifth Element
+
+- imdb: tt1599348
+  title: Safe House
