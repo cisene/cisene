@@ -7,7 +7,11 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 ## Some of the things I'm currently working on;
 
 * Restoration of [Daily Source Code Podcast](https://github.com/cisene/daily-source-code-podcast) RSS feed
+  * Archeological diggings and finds, Adam Curry's experimental [iPod](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod) script.
+
 * [SE-POI](https://github.com/cisene/se-poi) Swedish POI, Points-of-Interest .. as to scratch an itch for another project.
+  * [Svenskt Hålindex](https://github.com/cisene/svenskt-halindex) - Swedish: "Ett unikt sätt att klassificera svenska hålor".
+
 * [PodcastIndex.org](https://podcastindex.org/):
   * I run web spiders to discover new podcast feeds
   * I've added more than 3.5 Million feeds this far.
@@ -23,13 +27,19 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
   * Podcast search with PI as backend for
     * Sonos devices
     * Kodi and mediacenter devices
-* Swedish Swish 123-numbers [directory](https://github.com/cisene/swish-123) for companies and associations
+* Swedish [Swish 123-numbers](https://github.com/cisene/swish-123) directory for companies and associations
   * [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers - online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
 * Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
-  * Shoe sizes in millimeter, JP, EU and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
+  * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
 
 
 ... and plenty more. Only the current ones listed above.
+
+
+
+As you may have notices, many of the project are about data and information, not so much about code.
+
+Well arranged data is useful information.
 
 
 
