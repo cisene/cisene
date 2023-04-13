@@ -58,7 +58,10 @@ I'm learning new stuff;
 
 ## Donation, appreciation and/or monetary support:
 
-Stellar account ID: GBOWKT3UQUKIBG6OQO73FPN5HAA7FJLGCJI5DSMKPYFCJLY4I7ZQRAPJ
+Stellar account ID: `GBOWKT3UQUKIBG6OQO73FPN5HAA7FJLGCJI5DSMKPYFCJLY4I7ZQRAPJ`
 
-Payment address: cisene*keybase.io
+Payment address: `cisene*keybase.io`
 
+Lightning Address: `0332d57355d673e217238ce3e4be8491aa6b2a13f95494133ee243e57df1653ace`
+
+Fountain address `trickler@fountain.fm`
