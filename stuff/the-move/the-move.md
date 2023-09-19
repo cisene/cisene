@@ -440,7 +440,6 @@ Also, the broker have indicated that our seller is possibly moving out earlier, 
 
 Bicycle race started at 09, we left the house at 09:15 and managed to get past the road block, went to baby stuff flea market in a part of town we hadn't been to yet, on our way to the next way point, I discovered that our son had a tick on his forehead, went to find a pharmacy and a tick-picker and found one, continued on to way point to pick up a autumn/winter cover all for the son. Went back into town and took a walk, a quite long walk. All in all we walked for 2 hours and 43 minutes, almost 10 kilometers and 16194 steps, so we are a bit sore.
 
-&nbsp;
 
 
 
