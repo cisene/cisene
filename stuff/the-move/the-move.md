@@ -1,6 +1,14 @@
 # The Move - How NOT to move between two dwellings
 
-Everything below was posted on my now defunct blog, I wrote this blog posts to keep sane during the period when we were technically "homeless" or "unhoused". Due to technicalities we were forced out of our house, we had sold our little house to a couple of friends (no longer) that were a bit too trigger happy, had terminated their rental accommodation two months early, resulting in that they had to move in early and they forced us out and we had two months without housing.
+I used to work in Stockholm but since our son was born in 2013, I decided to shift gears and work closer to home, I found employment with a really good company in Västerås doing system integrations, where I started in April 2014, in the autumn of 2014 we felt that nothing really kept us back in Eskilstuna and it would be much more convenient to move to Västerås, closer to work, so at some occasion we briefly touched on the subject while having some friends over and they (also a small family of three, one daughter) were interested in buying the house, we took inventory of the house and drafted up some papers and sold without a realtor or real estate agent (big mistake) in between and carried on with finding an apartment in Västerås.
+
+We bid on several apartments but did not win, until we bid on an apartment we only had seen pictures of .. and won with our last possible bid. Later on we met up with the seller and looked at what we had bought, it was just as nice as we had seen in the pictures. There were some technicalities with signing papers and transfer ownership and somewhere along the line, our buyers misunderstood or jumped the gate, they terminated their apartment lease before they got a definite date from us, even after we had explicitly asked them to just wait.
+
+Somehow, we managed to register ourselves on our new address while the seller still lived there, to be able to enroll our son for daycare and put him in queue for schools and such, also managed to get the ISP (for Internet and IP-TV) to accept us as customers and send out hardware before we officially had moved in to make the gap between subscriptions as small and short as possible.
+
+
+
+TLDR; *Due to technicalities we were forced out of our house, we had sold our little house to a couple of friends (no longer) that were a bit too trigger happy, had terminated their rental lease two months early, resulting in that they had to move in early and they forced us out and we had to endure two months without housing.*
 
 NEVER EVER TRUST A NON-WRITTEN AGREEMENT.
 
@@ -8,11 +16,19 @@ NEVER EVER TRUST A NON-WRITTEN AGREEMENT.
 
 Some explanations;
 
-Habitat L - A small basement apartment on Lundbladsvägen, Eskilstuna
+**Home Base B19** - Our little house in Hällbybrunn, Eskiistuna
 
-Habitat X - A hotel in central Västerås, Vasagatan
+**Habitat L** - A small basement apartment on Lundbladsvägen, Eskilstuna
 
-Habitat B - A bed and breakfast outside Västerås, Badelunda Bed & Breakfast
+**Habitat X** - A hotel in central Västerås, Vasagatan
+
+**Habitat B** - A bed and breakfast outside Västerås, Badelunda Bed & Breakfast
+
+**FLV5** - Our destination, the aparment we moved to in Bjurhovda, Västerås
+
+
+
+Everything below was posted on my now defunct blog, I wrote this blog posts to keep sane during the period when we were technically "homeless" or "unhoused". 
 
 
 
@@ -98,7 +114,7 @@ Nothing new other than that we got a definite notice yesterday, that we can not 
 
 Colleagues have suggested different options, going to explore them next week when people start returning from vacations, some of them might bare fruit some may not.
 
-Went to <a href="//ifttt.com/">ifttt</a> to check if they had a channel for <a href="//plus.google.com/">Google+</a> and the possibility to have blog posts posted on G+ .. no such channel unfortunately. So I have to resort to manually cross posting blog posts. Otherwise I use the IFTTT service to automate some parts of life. IFTTT automagically posts new blog posts as tweets, teasing followers (and bots) to visit.
+Went to IFTTT to check if they had a channel for Google+ and the possibility to have blog posts posted on G+ .. no such channel unfortunately. So I have to resort to manually cross posting blog posts. Otherwise I use the IFTTT service to automate some parts of life. IFTTT automagically posts new blog posts as tweets, teasing followers (and bots) to visit.
 
 
 
@@ -132,11 +148,11 @@ I have been thinking about how and what I would need to get when getting decent 
 
 Yesterday it felt really good, after a call to a potential land lord. The place we are interested in is a old air force facility turned bed and breakfast. With 2-5 minutes walk to the bus in one direction and 10-15 minute walk to a bus in another direction. The land lord were to call back today with his calculations, we were promised half the regular price which puts it in the "budget-range", of course some things are stripped out to make our stay cheaper, like internet and breakfasts - which we will provide for ourselves. Another thing is the laundry machine, where we have to pay a smallish amount to use it each time.
 
-Unfortunately he haven't called yet, the number I got is for a landline phone, so if he isn't around I won't be able to reach him, left a message on the answering machine.
+Unfortunately he haven't called yet, the number I got is for a land line phone, so if he isn't around I won't be able to reach him, left a message on the answering machine.
 
-The guy that is renting HabL after us want us to leave early, as in two days early, called him yesterday to explain why we can not leave early, I think he got it but he was still interested, so if we find a place and we can leave early, he'd pay us for the remaining days. That would be peanuts, but I'm hoping we could get going early, more time to install ourselves in the new Hab and explore the surroundings and communications.
+The guy that is renting **Hab L** after us want us to leave early, as in two days early, called him yesterday to explain why we can not leave early, I think he got it but he was still interested, so if we find a place and we can leave early, he'd pay us for the remaining days. That would be peanuts, but I'm hoping we could get going early, more time to install ourselves in the new Hab and explore the surroundings and communications.
 
-As we would live close to an aero plane museum, I think my father would be interested in seeing the planes, I've seen them once already and there is much fun there, flight simulators and a mix of civil and military airships, american, swedish and russian.
+As we would live close to an aero plane museum, I think my father would be interested in seeing the planes, I've seen them once already and there is much fun there, flight simulators and a mix of civil and military airships, American, Swedish and Russian.
 
 I think we have done about a quarter of this nomadic episode, 25% completion.
 
@@ -146,7 +162,7 @@ I think we have done about a quarter of this nomadic episode, 25% completion.
 
 Today was kind of slow, walked to town and strolled around for a bit, picked up some items that we needed. Son is cranky with fever and tonight he was really hot, found a tub in the laundry room which we nicked (temporarily) and used to give him a batch to cool him off before going to bed. Warm and cosy water, I suddenly see bubbles .. and a gigantic turd. Pulled him out and fished out the turd, dumped the water and scrubbed the tub and rinsed it, refilled and put him back.
 
-We have been discussing the options and opinions we have about the accommodations, each accommodation has its pros and cons. Some are quirky, others are cramped for space, the best we have found yet is the one we are currently at, HabL, so at the moment we are thinking hard and long, hoping for something else to surface, or we have to settle with an accommodation that will just barely work.
+We have been discussing the options and opinions we have about the accommodations, each accommodation has its pros and cons. Some are quirky, others are cramped for space, the best we have found yet is the one we are currently at, **Hab L**, so at the moment we are thinking hard and long, hoping for something else to surface, or we have to settle with an accommodation that will just barely work.
 
 We visited one potential accommodation yesterday, in Västerås, or to be more correct, the outskirts of Västerås. Really nice place and it would be a breeze to stay there, unless we had a child. Newly renovated and restored military barrack, with bunk beds and lots of military and civil aviation paraphernalia decorating the walls. Shoe line at the door and really nice common areas. We were looking for something with self-catering, with access to a kitchen for regular cooking, everything you'd expect when subletting a furnished apartment. No self-catering/kitchen access and bunk beds made it a non-alternative. Unfortunately.
 
@@ -208,9 +224,9 @@ If this move-thingy doesn't gives me an few extra white hairs, nothing is.
 
 Spent most of the day out at my parents place, BBQ and lots of talk. Son had a blast, running around naked and running through sprinkler and having a bath in a small tub in the garden.
 
-Back at home/HabL, we gave son a quick bath, fed him gruel and put to bed, he was sleeping within 5 minutes, really tired.
+Back at home/**Hab L**, we gave son a quick bath, fed him gruel and put to bed, he was sleeping within 5 minutes, really tired.
 
-<strong>Update:</strong> Fuggtard! The shower wall in the bath room broke, the aluminium profile fractured at the lower hinge. Googled the fugg outta shower walls, it might set us back several thousands. Just what we didn't need.
+<strong>Update:</strong> Fuggtard! The shower wall in the bath room broke, the aluminum profile fractured at the lower hinge. Googled the fugg outta shower walls, it might set us back several thousands. Just what we didn't need.
 
 
 
@@ -234,7 +250,7 @@ Another thing that worries me, but is just a speed bump on our way towards the d
 
 Was away on conference during the day, went home after all the days activities were done, all colleagues were staying and have a really interesting event tonight, a NASA-led event where real-time stream of data is visualized inside a large dome at the Swedish Visualizing Center in Norrköping.
 
-Tonight I paid for the stay at the next Hab, Habitat B, that will be our home for next month, with a few quirks. There will be a gap between the current one and the next, some 3 days where we will be forced to find yet some other accommodation. A few days later we have to repeat the procedure because of the rooms are already booked by someone else, a total of 5 days on alternative accommodation. It's gonna be an extra cost and will exceed our budget slightly but Hab B will be close to daycare and public transportation.
+Tonight I paid for the stay at the next Hab, **Habitat B**, that will be our home for next month, with a few quirks. There will be a gap between the current one and the next, some 3 days where we will be forced to find yet some other accommodation. A few days later we have to repeat the procedure because of the rooms are already booked by someone else, a total of 5 days on alternative accommodation. It's gonna be an extra cost and will exceed our budget slightly but Hab B will be close to daycare and public transportation.
 
 We have not solved the puzzle with the alternative accommodation yet, but are looking into hotels and thinking package deal, 5 days split in two.
 
@@ -244,9 +260,9 @@ We have not solved the puzzle with the alternative accommodation yet, but are lo
 
 Today we visited the Thai festival at Strömsholmen in Eskilstuna, where the local Buddhist temple arranged the festivities. Food, beverages, candy and fruit. Lots of smiles. Met a few friends which I didn't knew they had Thai girlfriends or wifes, fun and such.
 
-Last night in Eskilstuna, tomorrow we check out from Habitat L, with or without extra fees or restoration costs. After checkout we're going to Västerås, to Habitat B, to dump/store some of our bags and boxes, then transport to Habitat X, a hotel where we need to stay before our room becomes available at Hab B the 1st of September. The weekend 4 to 6 September we need to go back to Hab X to spend the weekend away from Hab B, as it was booked since before, everything is booked that weekend in Västerås, as there is some convention, conference or similar going on that weekend. After that weekend there is no deviations from the path towards our new home base FLV5.
+Last night in Eskilstuna, tomorrow we check out from **Habitat L**, with or without extra fees or restoration costs. After checkout we're going to Västerås, to **Habitat B**, to dump/store some of our bags and boxes, then transport to **Habitat X**, a hotel where we need to stay before our room becomes available at **Hab B** the 1st of September. The weekend 4 to 6 September we need to go back to **Hab X** to spend the weekend away from **Hab B**, as it was booked since before, everything is booked that weekend in Västerås, as there is some convention, conference or similar going on that weekend. After that weekend there is no deviations from the path towards our new home base **FLV5**.
 
-Got a call from new owners of home base B19, we got mail so we're going to meet up tomorrow to get it.
+Got a call from new owners of home base **B19**, we got mail so we're going to meet up tomorrow to get it.
 
 So our last month living in a knapsack has been solved, accommodation-wise, as it looks right now. We busted the budget, exceeded the accommodation budget as we hadn't expected to stay at hotel, but costs are within reasonable boundaries.
 
@@ -256,9 +272,9 @@ Pinged land lord to get an idea about how and when he would show up tomorrow, to
 
 ## Hab X, Day 30 (2015-08-30)
 
-Yay! We left Habitat L this afternoon, without problems. We are officially part of the Västerås population.
+Yay! We left **Habitat L** this afternoon, without problems. We are officially part of the Västerås population.
 
-Now we are at an alternative accommodation after spending the afternoon with my dad, our stuff dropped off at Habitat B. Habitat X is a hotel in central Västerås and I have less than 300 meter to the office.
+Now we are at an alternative accommodation after spending the afternoon with my dad, our stuff dropped off at **Habitat B**. **Habitat X** is a hotel in central Västerås and I have less than 300 meter to the office.
 
 Woke up well before 06 this morning, putting stuff in order and packing backpacks, bags and boxes. Went into to town far too early, stores didn't open until 12 and we had to wait, spent time waiting through a visit at McDonkeys to feed the son. Got the stuff and then went home. Met with land lord and returned the keys after a tour around the rooms to check for broken or missing things, nothing broken or missing besides the things we had reported as such, the shower wall, which they thought were installation error, tightened screws too much or something.
 
@@ -266,19 +282,19 @@ Woke up well before 06 this morning, putting stuff in order and packing backpack
 
 ## Hab X, Day 31 (2015-08-31)
 
-Back to work and first day as a Västerås city dweller, feels good and we are enjoying the city, but we are living in a smallish hotel room all three of us, son is not always happy with the cramped conditions. The room is pretty much a few square meters of naked floor, small couch (from where I write this), a wall hanged desk, a tv and two regular sized beds, son sleeps in a travel baby bed, we also have a nice large balcony with view of a central street below and the entrance of a shopping center across the street.
+Back to work and first day as a Västerås city dweller, feels good and we are enjoying the city, but we are living in a smallish hotel room all three of us, son is not always happy with the cramped conditions. The room is pretty much a few square meters of naked floor, small couch (from where I writing this), a wall hung desk, a TV and two regular sized beds, son sleeps in a travel baby bed, we also have a nice large balcony with view of a central street below and the entrance of a shopping center across the street.
 
-Tomorrow afternoon we can check in at Habitat B, where we can stay til Friday afternoon as it had been booked, we either go back to Habitat X or go to a yet unknown location to stay over the weekend, after the weekend we can move back to Habitat B and stay for the reminder of the month.
+Tomorrow afternoon we can check in at **Habitat B**, where we can stay till Friday afternoon as it had been booked, we either go back to **Habitat X** or go to a yet unknown location to stay over the weekend, after the weekend we can move back to **Habitat B** and stay for the reminder of the month.
 
-Tomorrow is also introduction day for our son at his new daycare center, it's located about 200 meters from our (future) Home Base FLV5. We both need to attend as it is introduction for us as well for the son, to get to know the staff and they get to know us.
+Tomorrow is also introduction day for our son at his new daycare center, it's located about 200 meters from our (future) Home Base **FLV5**. We both need to attend as it is introduction for us as well for the son, to get to know the staff and they get to know us.
 
 
 
 ## Hab B, Day 32 (2015-09-01)
 
-At Habitat B now, son has been showered and put to bed. We are sharing a small house with another tenant, we have two rooms, one slightly larger than the other.
+At **Habitat B** now, son has been showered and put to bed. We are sharing a small house with another tenant, we have two rooms, one slightly larger than the other.
 
-I think this will be good, but I still want to fast forward the month, so we can move in to our new apartment, home base FLV5.
+I think this will be good, but I still want to fast forward the month, so we can move in to our new apartment, home base **FLV5**.
 
 Had introduction day at the daycare center this morning, son stepped into the crowd and started to play with the other kids, no hesitation. I'm sure he will be fine. The staff seems to be nice.
 
@@ -288,13 +304,13 @@ We're thinking about to hire a company to fetch and carry all our stuff to our a
 
 ## Hab B, Day 33 (2015-09-02)
 
-Busy day at the office, met wife and son for lunch. Late afternoon I started scripting and lost track of time and left the office about 45 minutes late. Clocked my walk back to Habitat B from the bus stop, pretty much the same time as this morning, 12 - 15 minutes walk.
+Busy day at the office, met wife and son for lunch. Late afternoon I started scripting and lost track of time and left the office about 45 minutes late. Clocked my walk back to **Habitat B** from the bus stop, pretty much the same time as this morning, 12 - 15 minutes walk.
 
 Followed up a tip we got from the broker, but as expected the accommodation were only available to friends and families of the condominium association members, but for 300 SEK/day it was worth following up. The search continues.
 
 Son's first day of introduction at daycare center, only a few hours, came home completely pooped, drained of energy. I think he liked it, report from wife suggest that he had a blast, new surroundings and new friends.
 
-As we don't have access to laundry facilities at Habitat B, we are looking for alternative accommodation, we might have found a workaround; using the laundry room in the house we are waiting to move into - ask the lady we bought the condo from if we could use the laundry room and yes, we can. The quirk is that one of us has to do laundry while the other stays with the son, entertaining and feeding him.
+As we don't have access to laundry facilities at **Habitat B**, we are looking for alternative accommodation, we might have found a workaround; using the laundry room in the house we are waiting to move into - ask the lady we bought the condo from if we could use the laundry room and yes, we can. The quirk is that one of us has to do laundry while the other stays with the son, entertaining and feeding him.
 
 
 
@@ -302,9 +318,9 @@ As we don't have access to laundry facilities at Habitat B, we are looking for a
 
 Zombie today. Slept beside son, he tosses and turns though the night.
 
-Thinking about changing Habitat B for something else as it's cramped for space, kitchen access, access to laundry room. Alternative is not cheap, hotel room for 3 weeks.
+Thinking about changing **Habitat B** for something else as it's cramped for space, kitchen access, access to laundry room. Alternative is not cheap, hotel room for 3 weeks.
 
-We need to move out of Habitat B tomorrow afternoon, Habitat X over the weekend and then back into Habitat B Sunday afternoon. 
+We need to move out of **Habitat B** tomorrow afternoon, **Habitat X** over the weekend and then back into **Habitat B** Sunday afternoon. 
 
 At the moment I have slight angst and if this move isn't giving me white hair there must be something wrong. The bank hasn't replied yet and today it's a month left to move in, I really hope there isn't any problems with financing or anything.
 
@@ -324,11 +340,11 @@ Back at the hotel again we did some laundry.
 
 ## Hab B, Day 37 (2015-09-06)
 
-Back at Habitat B, were welcomed by owner and tenant. On our way here we swung by a grocery store and got some necessities, food stuffs and diapers.
+Back at **Habitat B**, were welcomed by owner and tenant. On our way here we swung by a grocery store and got some necessities, food stuffs and diapers.
 
 We totally missed out on gruel, last bottle were just served and one of us have to bicycle to a nearby store, as the evening feeding would be a scream fest without it. The same for tomorrow morning.
 
-Checking out of Habitat X was a breeze, the not so fun part was to carry everything we brought for the weekend.
+Checking out of **Habitat X** was a breeze, the not so fun part was to carry everything we brought for the weekend.
 
 
 
@@ -338,7 +354,7 @@ Busy day at office, felt feverish all day, hot, cold and slight nausea.
 
 Went through the day anyway, feeling all weird, aching joints, feet and hips. Probably a prelude to getting sick.
 
-Habitat B feels a bit like home now, getting used to the walk in the morning, the wonky bed and sleeping besides son.
+**Habitat B** feels a bit like home now, getting used to the walk in the morning, the wonky bed and sleeping besides son.
 
 
 
@@ -381,7 +397,7 @@ Updated them on what and how we are going to handle the move, the bank and other
 Across town we went to check out an Asian shop, to our surprise it was really good, wide assortment of known products and low to moderate prices. Had lunch and went on the shop for groceries and then found a low budget thingy store, left with fly swatters and hand wash detergent. Probably a return visit, to most of the places.
 
 When thinking about it, I do not miss Eskilstuna, at all. Not on any plane, not the city. I miss friends.
-As we have been living in Västerås for a few weeks, I have come to like the city more and more, sure it has it's quirks but so does all cities. One of our reactions just a few days into living in Västerås were "Why they fuck didn't we do this earlier?" and that still stands, should have moved earlier.
+As we have been living in Västerås for a few weeks, I have come to like the city more and more, sure it has it's quirks but so does all cities. One of our reactions just a few days into living in Västerås were "Why the fuck didn't we do this earlier?" and that still stands, should have moved earlier.
 
 
 
@@ -430,7 +446,7 @@ Spent most of the day criss crossing town, farmers market like fair on the squar
 
 Yesterday was a bit calmer at the office, thursday was busy busy as there was more or less chaos and I had to work overtime to solve a problem, resending messages that got messed up, left the office after 7 in the evening.
 
-Tomorrow they are gonna shut down the road outside at 09, so we need to leave before that, some kind of bicycle race or similar. It's gonna be closed to 16 so we need to keep ourselves busy until then. The mission is to get across town, to a neighborhood we haven't been to yet, to buy some stuff for the son and then back to the town. After that we have nothing planned.
+Tomorrow they are gonna shut down the road outside at 09, so we need to leave before that, some kind of bicycle race or similar. It's gonna be closed to 16 so we need to keep ourselves busy until then. The mission is to get across town, to a neighborhood we haven't been to yet, to buy some stuff for the son and then back to town. After that we have nothing planned.
 
 Also, the broker have indicated that our seller is possibly moving out earlier, nothing we have heard directly from her, but that revokes pretty much all previous planning about the moving day. New round of planning and trying to get the schedule to fit without overlap or gaps.
 
@@ -438,7 +454,7 @@ Also, the broker have indicated that our seller is possibly moving out earlier, 
 
 ## Hab B, Day 51 (2015-09-20)
 
-Bicycle race started at 09, we left the house at 09:15 and managed to get past the road block, went to baby stuff flea market in a part of town we hadn't been to yet, on our way to the next way point, I discovered that our son had a tick on his forehead, went to find a pharmacy and a tick-picker and found one, continued on to way point to pick up a autumn/winter cover all for the son. Went back into town and took a walk, a quite long walk. All in all we walked for 2 hours and 43 minutes, almost 10 kilometers and 16194 steps, so we are a bit sore.
+Bicycle race started at 09, we left the house at 09:15 and managed to get past the road block, went to baby stuff flea market in a part of town we hadn't been to before, on our way to the next way point, I discovered that our son had a tick on his forehead, went to find a pharmacy and a tick-picker and found one, continued on to way point to pick up a autumn/winter cover all for son. Went back into town and took a walk, a quite long walk. All in all we walked for 2 hours and 43 minutes, almost 10 kilometers and 16194 steps, so we are a bit sore.
 
 
 
@@ -488,7 +504,7 @@ Went back to the apartment to dump the stuff, have another look, replaced a dead
 ## Home base FLV5, Day 58 (2015-09-28)
 
 Touch down!
-Today we moved in. The moving company called just before 11 when I was at work and I went down to the entrance to meet them, hand over keys and instructions. I left the office at about 12, met with wife in the apartment and the went to fetch our last remaining items from Habitat B. Got there and gathered our stuff, with help from our cohabitant we got the stuff transported to the apartment.
+Today we moved in. The moving company called just before 11 when I was at work and I went down to the entrance to meet them, hand over keys and instructions. I left the office at about 12, met with wife in the apartment and the went to fetch our last remaining items from **Habitat B**. Got there and gathered our stuff, with help from our cohabitant we got the stuff transported to the apartment.
 
 Out of about 40 boxes, we have killed about 8 this far, beds and kitchen table assembled and temporary light fixtures are up.
 
@@ -496,7 +512,7 @@ Unpacking after two months is a bit like Christmas, open a box and find stuff yo
 
 Noticed lots of small stuff missing, started lists of things to get.
 
-Long day, woke up at Habitat B, went to work, go to Home Base FLV5, go to Habitat B and back, unpack and shuffle things around. Now in bed, sore feet but happy, we have landed.
+Long day, woke up at **Habitat B**, went to work, go to Home Base **FLV5**, go to **Habitat B** and back, unpack and shuffle things around. Now in bed, sore feet but happy, we have landed.
 
 
 
