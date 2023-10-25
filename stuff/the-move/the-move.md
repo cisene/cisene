@@ -10,7 +10,7 @@ Somehow, we managed to register ourselves on our new address while the seller st
 
 TLDR; *Due to technicalities we were forced out of our house, we had sold our little house to a couple of friends (no longer) that were a bit too trigger happy, had terminated their rental lease two months early, resulting in that they had to move in early and they forced us out and we had to endure two months without housing.*
 
-NEVER EVER TRUST A NON-WRITTEN AGREEMENT.
+NEVER EVER TRUST A NON-WRITTEN AGREEMENT. NEVER SELL OR BUY ANYTHING FROM FRIENDS.
 
 
 
