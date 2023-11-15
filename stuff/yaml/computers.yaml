@@ -1,0 +1,125 @@
+meta:
+  title: Computers I owned between 1993 and 2007
+  author: Christopher Isene<christopher.isene@gmail.com>
+  created: 1993-05-16
+  updated: 2007-08-18
+
+computers:
+- name: Warszawa
+  cpu: Intel Pentium 133Mhz
+  memory: 80Mb
+  disk: 2.1Gb
+  os: Debian 3.0 Woody
+  manufacturer: Fujitsu
+  model: ErgoPro x
+  description: This is/was my primary workstation.
+
+- name: Berlin
+  cpu: Intel Pentium 100Mhz (F0 0F Bug)
+  memory: 32Mb
+  disk: 535Mb SAMSUNG SHD-30560A (APRO-5) 126kb Cache
+  os: Debian 3.0 (woody)
+  NIC: 3Com 3C509-TP (ISA)
+  manufacturer: AST
+  model: Bravo MS P/100 (model: 501774-A06)
+  description: Got this computer canibalized, assembled from spare parts.
+
+- name: Oslo
+  cpu: Intel 80486 DX/4 100Mhz
+  memory: 36Mb
+  disk: N/A
+  os: Debian 3.0 (woody)
+  manufacturer: Digital Equipment Corporation, DEC
+  model: Venturis 4100
+  description: The first computer I bought myself, Nov '93.
+
+- name: Helsinki
+  cpu: Intel 80486 25Mhz (Upgraded to 33Mhz, Clocked to 40Mhz)
+  memory: 8Mb
+  disk: N/A
+  os: Linux HardHat 1.0 for Embedded Systems (RH 6.2 Derivate)
+  manufacturer: NoName
+  model: N/A
+  description: Bought it (Summer '93) cheap from a friend who needed money, I used to run my BBS on this machine. Linux HardHat is the only dist. I can install on the 'low-end' machine.
+
+- name: Paris
+  cpu: PowerPC Dual 604e 180Mhz
+  memory: 80Mb (Configuration: A2:16, B2:16, A4:8, B4:8, A6:16, B6:16)
+  disk: 1.9Gb (Disk cache: 2.50Mb)
+  os: Mac OS 9.1 (soon a *nix dist.)
+  manufacturer: Apple
+  model: 9500/180MP
+  description: A 'loaner' from work. ROM revision $77D.28F2
+
+- name: London
+  cpu: Intel 80486 66Mhz
+  memory: 16Mb
+  disk: 850Mb
+  os: NetBSD
+  manufacturer: NoName
+  model: TS30AS
+  description: A laptop I bought to use as IRC terminal, hooked up through WaveLan.
+
+- name: Vienna
+  cpu: Intel Pentium Pro 200Mhz
+  memory: 64Mb
+  disk: 1053Mb + 200Mb Swap
+  os: Debian 3.0 (woody)
+  NIC: 3Com 3C509-Combo (ISA)
+  manufacturer: Noname
+  model: Noname
+  description: A future workhorse, needs more disk - to serve as fileserver (ftp/samba)
+
+- name: (Nameless)
+  cpu: Intel 8088 8Mhz
+  memory: 640kb
+  disk: 20Mb
+  os: DOS 6.22
+  manufacturer: Commodore
+  model: PC 10-III
+  description: I bought this just to play with... It's almost identical to the frist PC I put my hands on.
+
+- name: Madrid
+  cpu: Intel Pentium 4 2200Mhz
+  memory: 512Mb
+  disk: 120 + 120Gb
+  os: Winblows XP Pro
+  manufacturer: ABit
+  model: Noname (Lian-Li PC-60 Case)
+  description: My new toy, the only computer I run Winblows on... Might migrate this one too.
+
+- name: Lisbon
+  cpu: PowerPC 740/750 G3 (v2.2) 266Mhz
+  memory: ?Mb
+  disk: 4Gb
+  os: Mac OS X 10.2.8
+  manufacturer: Apple
+  model: (Haven't figured that out yet)
+  description: Another loaner from work. To play and code on.
+
+- name: Riga
+  cpu: UltraSPARC 167Mhz?
+  memory: 128Mb?
+  disk: 4Gb?
+  os: (none at the moment)
+  manufacturer: SUN Microsystems
+  model: Ultra-1
+  description: Got this one from the scrap heap, exotic enough to play with.
+
+- name: Tallinn
+  cpu: Alpha 150Mhz?
+  memory: 128Mb?
+  disk: 4Gb?
+  os: (none at the moment)
+  manufacturer: DEC, Digital Equipment Corp.
+  model: PB22H-CX
+  description: Got this from the scrap heap too, exotic and sexy hardware.
+
+- name: Cruiser
+  cpu: AMD Duron 1Ghz
+  memory: 128Mb
+  disk: 20Gb?
+  os: Debian 3.0r2 (Woody)
+  manufacturer: Compaq
+  model: Evo N115
+  description: Got a good offer from a friend, just had to get it. Battery is dead.
