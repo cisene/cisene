@@ -1,4 +1,4 @@
-# The Move - How NOT to move between two dwellings
+# The Move - How to NOT move between two dwellings
 
 I used to work in Stockholm but since our son was born in 2013, I decided to shift gears and work closer to home, I found employment with a really good company in Västerås doing system integrations, where I started in April 2014, in the autumn of 2014 we felt that nothing really kept us back in Eskilstuna and it would be much more convenient to move to Västerås, closer to work, so at some occasion we briefly touched on the subject while having some friends over and they (also a small family of three, one daughter) were interested in buying the house, we took inventory of the house and drafted up some papers and sold without a realtor or real estate agent (big mistake) in between and carried on with finding an apartment in Västerås.
 
