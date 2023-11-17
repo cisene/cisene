@@ -17,12 +17,9 @@
 | Email           | [christopher.isene@gmail.com](mail:christopher.isene@gmail.com)                  |
 | Homepage        | [christopherisene.se](https://christopherisene.se/)                              |
 | Github          | [github.com/cisene](https://github.com/cisene)                                   |
-| facebook        | [facebook.com/christopher.isene](https://www.facebook.com/christopher.isene)     |
-| instagram       | [instagram.com/cisene](https://www.instagram.com/cisene/)                        |
 | linkedin        | [linkedin.com/in/christopherisene](http://www.linkedin.com/in/christopherisene)  |
 | mastodon        | @cisene@mastodon.social                                                          |
 | mastodon        | @cisene@podcastindex.social                                                      |
-| twitter         | @cisene@twitter.com                                                              |
 
 
 
