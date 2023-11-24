@@ -6,8 +6,11 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 
 ## Some of the things I'm currently working on;
 
-* Restoration of [Daily Source Code Podcast](https://github.com/cisene/daily-source-code-podcast) RSS feed
+* Restoration of [Daily Source Code Podcast](https://en.wikipedia.org/wiki/Daily_Source_Code) [RSS](https://github.com/cisene/daily-source-code-podcast) feed
   * Archeological diggings and finds, Adam Curry's experimental [iPod](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod) script.
+
+* Swedish [Swish 123-numbers](https://github.com/cisene/swish-123) directory for companies and associations
+  * [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers - online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
 
 * [SE-POI](https://github.com/cisene/se-poi) Swedish POI, Points-of-Interest .. as to scratch an itch for another project.
   * [Svenskt Hålindex](https://github.com/cisene/svenskt-halindex) - Swedish: "Ett unikt sätt att klassificera svenska hålor".
@@ -27,10 +30,13 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
   * Podcast search with PI as backend for
     * Sonos devices
     * Kodi and mediacenter devices
-* Swedish [Swish 123-numbers](https://github.com/cisene/swish-123) directory for companies and associations
-  * [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers - online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
+
 * Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
   * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
+  * Swedish Banks [clearing numbers](https://github.com/cisene/data-available/blob/master/SE/banker/clearingnummer-2023.yaml)
+  * Swedish [Person numbers](https://github.com/cisene/data-available/blob/master/SE/myndigheter/skatteverket/personnummer/2023/Testpersonnummer_2023.csv)
+  * Swedish [Nationella kort/SITHS kort](https://github.com/cisene/data-available/blob/master/SE/nationella-kort/nationella-kort.md)
+  * USA [CTA-Member directory](https://github.com/cisene/data-available/blob/master/US/CTA-member-directory.yaml)
 
 
 ... and plenty more. Only the current ones listed above.
