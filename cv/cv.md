@@ -1,44 +1,85 @@
 # Curriculum Vitae
 
+Updated: 2024-01-05
+
+Source: https://github.com/cisene/cisene/blob/main/cv/cv.md
+
+PDF: https://github.com/cisene/cisene/blob/main/cv/cv.pdf
+
 [[_TOC_]]
 
 
 
 ## Personal Information
 
-|                 |                                                                                  |
-| :-------------- | :------------------------------------------------------------------------------- |
-| Name            | Christopher Isene                                                                |
-| Birthdate       | 1973-05-28                                                                       |
-| Place of birth  | Versailles, France                                                               |
-| Citizenship     | Swedish                                                                          |
-| Address         | Flisavägen 5, SE-72353 Västerås, Sweden                                          |
-| Phone, Mobile   | [+46703852166](tel://+46703852166)                                               |
-| Email           | [christopher.isene@gmail.com](mail:christopher.isene@gmail.com)                  |
-| Homepage        | [christopherisene.se](https://christopherisene.se/)                              |
-| Github          | [github.com/cisene](https://github.com/cisene)                                   |
-| linkedin        | [linkedin.com/in/christopherisene](http://www.linkedin.com/in/christopherisene)  |
-| mastodon        | @cisene@mastodon.social                                                          |
-| mastodon        | @cisene@podcastindex.social                                                      |
+|                |                                                              |
+| -------------: | :----------------------------------------------------------- |
+|           Name | Christopher Isene                                            |
+|      Birthdate | 1973-05-28 (May 28th, 1973)                                  |
+| Place of birth | Versailles, France                                           |
+|    Citizenship | Swedish                                                      |
+|        Address | Flisavägen 5, SE-72353 Västerås, Sweden                      |
+|  Phone, Mobile | [+46703852166](tel://+46703852166)                           |
+|          Email | [christopher.isene@gmail.com](mail:christopher.isene@gmail.com) |
+|       Homepage | [christopherisene.se](https://christopherisene.se/)          |
+|         Github | [github.com/cisene](https://github.com/cisene)               |
+|       linkedin | [linkedin.com/in/christopherisene](http://www.linkedin.com/in/christopherisene) |
+|       mastodon | @cisene@mastodon.social                                      |
+|       mastodon | @cisene@podcastindex.social                                  |
+
+More about the person down below at [Privately](#privately)
+
 
 
 
 
 ## Employments
 
-### Integrationsbolaget i Sverige AB
+
+
+### Omegapoint
+
 *System Integration Consultant*
-`2021-12-01` - `On-going`
+`2023-05-18` - `On-going`
+Azure development of integrations for customers of different kinds, migrations from on-premises environment out to on-cloud environments.
+
+#### [Name withheld] (Housing company)
+Migrating old platform to a new, upgrading and refactoring PHP 5.x to PHP 8.x code.
+
+
+
+
+#### [Name withheld] (Energy Distribution Companies)
+Migrating and separating environments on Azure, adding CI/CD to automate builds, testing and deploys through Pipelines and Bicep. Some Powershell scripting to prepare and extract information. Second-line support.
+
+
+
+
+#### [Name withheld] (Clothing merchant)
+Limited Biztalk maintenance, on-cloud integrations. Second-line support.
+
+
+
+
+#### [Name withheld] (Nationwide Healthcare provider)
+Limited Biztalk maintenance, on-cloud integrations. Second-line support.
+
+
+
+### Integrationsbolaget i Sverige AB
+
+*System Integration Consultant*
+`2021-12-01` - `2023-05-18`
 Azure development of integrations for customers of different kinds, migrations from on-premises environment out to on-cloud environments.
 
 
-#### (Hospitality Provider)
+#### [Name withheld] (Hospitality Provider)
 Migrating integrations and systems from On-premise environments to on-clound, replacing legacy systems and business logic.
 `Technologies:` Databases, Dotnet/C#, Logic Apps, Source Code versioning
 
 
 
-#### (Energy Distribution Companies)
+#### [Name withheld] (Energy Distribution Companies)
 Migration from On-premise integrations to On-cloud integrations. Separation of systems and business logic.
 `Technologies:` API Management, File shares, Liquid Transformations, Logic Apps, Message Queues, Pipelines, ServiceBuses, Source Code Versioning, XML/Message validation
 
@@ -68,13 +109,13 @@ Find and validate podcast feeds from various sources, PI has over 4 million podc
 Migrations and integrations in customers on-premises environments and on-cloud environments. Customization and adaption between different systems, local in customers environment and towards remote vendors through APIs.
 
 
-#### (Regional Healthcare Provider)
+#### [Name withheld] (Regional Healthcare Provider)
 Healthcare provider establishing Master Data Management (MDM) platform and integrations to feed and provide data to surrounding systems and vendors.
 `Technologies:` Bitbucket Source Code Versioning, GitLab Source Code Versioning, Java 8/11 (Component development), Python 3.x (Automation + Microservices), Redhat 7.x, Tibco EBX (Masterdata platform)
 
 
 
-#### (Logistics Company)
+#### [Name withheld] (Logistics Company)
 Large nordic logistics company where 8 integration platforms were coordinated from a central integration platform, migrating of platform in three steps changing datacenters and establishing new central integration platform split over disaster-safe datacenters with mirroring/warm-standby.
 `Technologies:` AWS EC2, Ansible, Bitbucket Source Code Versioning, Jenkins, OpenResty 1.3.6.x (Nginx HTTP + Lua), Python 2.x/3.x, Redhat 6.x/7.x, SVN Source code versioning, Tibco BusinessConnect, Tibco BusinessWorks 5.x/6.x, Tibco Enterprise Message Service 8.x, Tibco MFT (Managed File Transfer)
 
@@ -88,19 +129,19 @@ Large nordic logistics company where 8 integration platforms were coordinated fr
 `2014-04-07` - `2016-12-31`
 
 
-#### (Logistics Company)
+#### [Name withheld] (Logistics Company)
 Large nordic logistics company where 8 integration platforms were coordinated from a central integration platform, migrating of platform in three steps changing datacenters and establishing new central integration platform split over disaster-safe datacenters with mirroring/warm-standby.
 `Technologies:` AWS EC2, Ansible, Bitbucket Source Code Versioning, Jenkins, OpenResty 1.3.6.x (Nginx HTTP + Lua), Python 2.x/3.x, Redhat 6.x/7.x, SVN Source code versioning, Tibco BusinessConnect, Tibco BusinessWorks 5.x/6.x, Tibco Enterprise Message Service 8.x, Tibco MFT (Managed File Transfer)
 
 
 
-#### (Global Manufacturing Company)
+#### [Name withheld] (Global Manufacturing Company)
 Manufacturing company with divisions spanning many technology segments, maintaining and developing new solutions on integration platform, as central to enterprise integrations were done with all segments ERP, HR, Financial-systems.
 `Technologies:` Active Directory, Microsoft Biztalk 2006, Microsoft Powershell, Microsoft TFS Source Code Versioning
 
 
 
-#### (Merchant Company)
+#### [Name withheld] (Merchant Company)
 Bewerage copany with stores all across the country, integrations between HR, AD, POS and Physical Passage system to do everything from on-boarding, setting up email and logon for terminals to off-boarding and HR-contract logic for recurring/seasonal employments.
 `Technologies:` Active Directory, Microsoft Biztalk 2010, Microsoft Powershell, Microsoft TFS Source Code Versioning
 
@@ -267,4 +308,43 @@ Develop and maintain web site in Swedish and English languages, search engine op
 
 
 
+## Privately
 
+I'm a pretty easy-going person, with a hungry mind and I like to learn new things.
+
+
+
+### Family
+
+Married to Lynn and father to Marcus.
+
+
+
+### Interests
+
+I challenge myself to learn new things every day, it might be outside of my regular areas of interest or it might be deep into details of something I already know about but want or need to know more about. Sometimes driven by work-related interest.
+
+Programming, technology, photography, movies, music, culture and food. Arduino, SDR, electronics. 
+
+
+
+### Projects
+
+I usually have several projects running concurrently in my spare time, either out in the open, with repositories on github .. or privately on my servers in a closet. The below mentioned projects are public.
+
+
+
+#### Swish-Katalogen
+
+A collection of observed Swish 123-number (Companies and organizations) for the Swish payment system, as the company behind it doesn't provide any Number-to-Organization or Organization-to-Number lookups. I had an itch to scratch.
+
+Available on github and online.
+
+
+
+#### MediaCreeper
+
+A revolt-project that was started as a protest against the FRA-lagen (Swedish Radio Establishment Law) in November 2008, where bloggers tagged their blogs with a "pixel" from the MediaCreeper service, to get reports about which media houses that were reading their blogs, this to illustrate how Big-brother would watch over everyone. 
+The law passed into legislation in 2009 after much debate.
+I was interviewed for the Investigative Journalist Association of Sweden own magzine Scoop, for an artible about jounalists, reporters and media houses being exposed to surveillence on the internet. At the time a search for my name on Google yielded around 12000 hits.
+I ran and managed the project between 2008 and 2022, then passing it on to somebody who would continue onwards.
