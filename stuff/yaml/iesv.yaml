@@ -1,0 +1,442 @@
+staff:
+
+- Management:
+
+  - name: Jennifer Sembrant
+    title: Principal
+    email: jennifer.sembrant.vasteras@engelska.se
+
+  - name: Darren Wright
+    title: Assistant Principal / Academics
+    email: darren.wright.vasteras@engelska.se
+
+  - name: Jessica Hedlund
+    title: Pastoral Manager
+    email: jessica.hedlund.vasteras@engelska.se
+
+  - name: Eric Winkler
+    title: Academic Co-ordinator, English and French Teacher
+    email: eric.winkler.vasteras@engelska.se
+
+- Administration:
+
+  - name: Sevim Can
+    title: HR
+    email: sevim.can.vasteras@engelska.se
+
+  - name: Laura Conklin
+    title: Head of Administration and Queue Administrator
+    email: laura.conklin.vasteras@engelska.se
+    phone: +46700809808
+
+  - name: Diane Hedstrom
+    title: Admininstration/Reception
+    email: diane.hedstrom.vasteras@engelska.se
+
+  - name: William Li
+    title: Economist
+    email: william.li@engelska.se
+
+  - name: Haylee Lundberg
+    title: Admininstrator-Substitution
+    email: haylee.lundberg.vasteras@engelska.se
+
+  - name: Tatiana Schröder
+    title: Administrator / Substitution
+    email: tatiana.schroder.vasteras@engelska.se
+
+  - name: Barry Shaw
+    title: IT Representative
+    email: barry.shaw.vasteras@engelska.se
+
+  - name: Rafael Schröder
+    title: Caretaker
+    email: rafael.schroder.vasteras@engelska.se
+
+  - name: Per Sanderford
+    title: Caretaker
+    email: per.sanderford.vasteras@engelska.se
+
+  - name: James Pretorius
+    title: Caretaker
+    email: james.pretorius.vasteras@engelska.se
+
+- Aesthetics:
+
+  - name: Meredith Hofmaier
+    title: Head of Aesthetics Department - Art Teacher
+    email: meredith.hofmaier.vasteras@engelska.se
+
+  - name: Gisela Pretorius
+    title: Art Teacher
+    email: gisela.pretorius.vasteras@engelska.se
+
+  - name: Elizabeth Dag
+    title: Textiles Teacher
+    email: elizabeth.dag.vasteras@engelska.se
+
+  - name: Karina Maartens
+    title: Textiles Teacher
+    email: karina.maartens.vasteras@engelska.se
+
+  - name: Victoria Mendoza
+    title: Home Economics Teacher
+    email: victoria.mendoza.vasteras@engelska.se
+
+  - name: Maria Lindström
+    title: Social Science Teacher, Home Economics Teacher
+    email: maria.lindstrom.vasteras@engelska.se
+
+  - name: Matthew Bell
+    title: Music Teacher
+    email: matthew.bell.vasteras@engelska.se
+
+  - name: Alyssa Wedin
+    title: Music Teacher
+    email: alyssa.wedin.vasteras@engelska.se
+
+  - name: Faris Can
+    title: Woodcraft Teacher
+    email: faris.can.vasteas@engelska.se
+
+- Mathematics:
+
+  - name: Ryan Hattingh
+    title: Head of Math Department - Math Teacher
+    email: ryan.hattingh.vasteras@engelska.se
+
+  - name: Nanis Afify
+    title: Maths & Science Teacher
+    email: nanis.afify.vasteras@engelska.se
+
+  - name: Louise Glover
+    title: English Teacher, Mathematics Teacher
+    email: louise.glover.vasteras@engelska.se
+
+  - name: James Omweno
+    title: Mathematics Teacher
+    email: james.omweno.vasteras@engelska.se
+
+  - name: Trizsha Plamad
+    title: Science Teacher, Mathematics Teacher, English Teacher
+    email: trizsha.plamad.vasteras@engelska.se
+
+  - name: Remi Ryon
+    title: Mathematics Teacher
+    email: remi.ryon.vasteras@engelska.se
+
+  - name: Roslind Steensma
+    title: English Teacher, Mathematics Teacher
+    email: roslind.steensma.vasteras@engelska.se
+
+- Science:
+
+  - name: Johan Gerber
+    title: Head of Science Department - Science Teacher
+    email: johan.gerber.vasteras@engelska.se
+
+  - name: Nanis Afify
+    title: Maths & Science Teacher
+    email: nanis.afify.vasteras@engelska.se
+
+  - name: Morcos Azir
+    title: Science Teacher
+    email: morcos.azir.vasteras@engelska.se
+
+  - name: Trizsha Plamad
+    title: Science Teacher, Mathematics Teacher, English Teacher
+    email: trizsha.plamad.vasteras@engelska.se
+
+  - name: Cameron Mclean
+    title: Science Teacher
+    email: cameron.mclean.vasteras@engelska.se
+
+  - name: Kevin Steensma
+    title: Science Teacher
+    email: kevin.steensma.vasteras@engelska.se
+
+- English Department:
+
+  - name: Sarah Knaus
+    title:  Head of English Department - English Teacher
+    email: sarah.knaus.vasteras@engelska.se
+
+  - name: Meghan Abrahamson
+    title: English Teacher
+    email: meghan.abrahamson.vasteras@engelska.se
+
+  - name: Louise Glover
+    title: English Teacher, Mathematics Teacher
+    email: louise.glover.vasteras@engelska.se
+
+  - name: Shelby Maia
+    title: English Teacher
+    email: shelby.maia.vasteras@engelska.se
+
+  - name: Trizsha Plamad
+    title: Science Teacher, Mathematics Teacher, English Teacher
+    email: trizsha.plamad.vasteras@engelska.se
+
+  - name: Roslind Steensma
+    title: English Teacher, Mathematics Teacher
+    email: roslind.steensma.vasteras@engelska.se
+
+  - name: Eric Winkler
+    title: Academic Co-ordinator, English and French Teacher
+    email: eric.winkler.vasteras@engelska.se
+
+- Modern Foreign Languages:
+
+  - name: David Castillo
+    title: Head of Modern Foreign Languages- Spanish Teacher
+    email: david.castillo.vasteras@engelska.se
+
+  - name: Mallory Lindqvist
+    title: French Teacher
+    email: mallory.lindqvist.vasteras@engelska.se
+
+  - name: Alvaro Serrano
+    title: Spanish Teacher
+    email: alvaro.serrano.vasteras@engelska.se
+
+  - name: Eric Winkler
+    title: Academic Co-ordinator, English and French Teacher
+    email: eric.winkler.vasteras@engelska.se
+
+- Physical Education:
+
+  - name: Olov Gohde
+    title: Head of PE Department - PE Teacher
+    email: olov.gohde.vasteras@engelska.se
+
+  - name: Christian Plamad
+    title: PE Teacher
+    email: christian.plamad.vasteras@engelska.se
+
+  - name: Ashley Roberts
+    title: PE Teacher
+    email: ashley.roberts.vasteras@engelska.se
+
+- Social Sciences:
+
+  - name: Joel Gustafsson
+    title: Head of Social Science Department - Social Science Teacher
+    email: joel.gustafsson.vasteras@engelska.se
+
+  - name: Björn Johansson
+    title: Social Science Teacher
+    email: bjorn.johansson.vasteras@engelska.se
+
+  - name: Mikael Jähmänen
+    title: Social Science Teacher
+    email: mikael.jahmanen.vasteras@engelska.se
+
+  - name: Emeli Lagerhult
+    title: Head of Year 7 - Social Science Teacher
+    email: emeli.lagerhult.vasteras@engelska.se
+
+  - name: Maria Lindström
+    title: Social Science Teacher, Home Economics Teacher
+    email: maria.lindstrom.vasteras@engelska.se
+
+  - name: Madelene Von Zeipel
+    title: Social Science Teacher
+    email: madelene.von-zeipel.vasteras@engelska.se
+
+- Swedish:
+
+  - name: Johan Englin
+    title: Head of Swedish Department- Swedish Teacher
+    email: johan.englin.vasteras@engelska.se
+
+  - name: Pavlina Bunner
+    title:  Head of Grade 6- Swedish Teacher
+    email: pavlina.bunner.vasteras@engelska.se
+
+  - name: Maria Claesson
+    title: Swedish and SVA Teacher
+    email: maria.claesson.vasteras@engelska.se
+
+  - name: Rasha Hadrous
+    title: Swedish Teacher, SVA Teacher
+    email: rasha.hadrous.vasteras@engelska.se
+
+  - name: Lina Jähmänen
+    title: Swedish Teacher, SVA Teacher
+    email: lina.jahmanen.vasteras@engelska.se
+
+  - name: Chelsie Lagerhult
+    title: Swedish Teacher, SVA Teacher
+    email: chelsie.lagerhult.vasteras@engelska.se
+
+  - name: Christine Lagerholm
+    title: Swedish SVA Teacher
+    email: christine.lagerholm.vasteras@engelska.se
+
+  - name: Camilla Skarps
+    title: Head of Junior School Grades 4&5- Swedish Teacher
+    email: camilla.skarps.vasteras@engelska.se
+
+  - name: Ylva Sköldbåge
+    title: Swedish Teacher
+    email: ylva.skoldbage.vasteras@engelska.se
+
+  - name: Anton Persson
+    title: Swedish Teacher
+    email: anton.persson.vasteras@engelska.se
+
+- Special Education:
+
+  - name: Anna-My Holmsten
+    title: Head of Special Education - Student Assistants
+    email: anna-my.holmsten.vasteras@engelska.se
+
+  - name: Arvid Alvaeus
+    title: Special Educator/Logoped
+    email: arvid.alvaeus.vasteras@engelska.se
+
+  - name: Chantz Beiler
+    title: Special Educator
+    email: chantz.beiler.vasteras@engelska.se
+
+  - name: Anita Van Der Merwe
+    title: Special Education Team - Science Teacher
+    email: anita.van-der-merwe.vasteras@engelska.se
+
+- Student Support:
+
+  - name: Anna-My Holmsten
+    title: Head of Special Education - Student Assistants
+    email: anna-my.holmsten.vasteras@engelska.se
+
+  - name: Lena Bahar
+    title: Student Assistant
+    email: lena.bahar.vasteras@engelska.se
+
+  - name: Lovell Classen
+    title: Student Assistant
+    email: lovell.classen.vasteras@engelska.se
+
+  - name: Dahlia Hagi
+    title: Student Assistant
+    email: Dahlia.hagi.vasteras@engelska.se
+
+  - name: Rahil Hanna
+    title: Student Assistant
+    email: rahil.hanna.vasteras@engelska.se
+
+  - name: Katelyn Lyons
+    title: Junior Club - School Assistant 
+    email: katelyn.lyons.vasteras@engelska.se
+
+  - name: Lena Paulus
+    title: Student Assistant
+    email: lena.paulus.vasteras@engelska.se
+
+  - name: Johanna Francis
+    title: Student Assistant
+    email: johanna.francis.vasteras@engelska.se
+
+  - name: Abiti Mekonen
+    title: Student Assistant 
+    email: abiti.mekonen.vasteras@engelska.se
+
+  - name: Tony Issa
+    title: Student Assistant
+    email: tony.issa.vasteras@engelska.se
+
+  - name: Pia Aoun
+    title: Student Assistant
+    email: pia-maria.aoun.vasteras@engelska.se
+
+  - name: Christina Klintebäck
+    title: Student Assistant
+    email: christina.klinteback.vasteras@engelska.se
+
+- Student Care Team:
+
+  - name: Anna-My Holmsten
+    title: Head of Special Education - Student Assistants
+    email: anna-my.holmsten.vasteras@engelska.se
+
+  - name: Arvid Alvaeus
+    title: Special Educator/Logoped
+    email: arvid.alvaeus.vasteras@engelska.se
+
+  - name: Chantz Beiler
+    title: Special Educator
+    email: chantz.beiler.vasteras@engelska.se
+
+  - name: Kristina Eriksson
+    title: School Nurse
+
+  - name: Jessica Hedlund
+    title: Pastoral Manager
+    email: jessica.hedlund.vasteras@engelska.se
+
+  - name: Gabrielle Henriksson
+    title: School Nurse
+
+  - name: Helena Kalldin
+    title: Counselor
+
+  - name: Anita Van Der Merwe
+    title: Special Education Team - Science Teacher
+    email: anita.van-der-merwe.vasteras@engelska.se
+
+- Student Development Team- SDT:
+
+  - name: Jonas Lehtonen
+    title:  Head of Student Development Team - Student Lounge
+    email: jonas.lehtonen.vasteras@engelska.se
+
+  - name: Soumaya Beji
+    title:  Head of Grade 8 - Student Development Team
+    email: soumaya.beji.vasteras@engelska.se
+
+  - name: Alexander Cherif
+    title: Head of Grade 9 - Student Development Team
+    email: alexander.cherif.vasteras@engelska.se
+
+  - name: Robert Dibell
+    title: Student Development Team
+    email: robert.dibell.vasteras@engelska.se
+
+  - name: Charlotte Lindström
+    title: Head of Junior Club - Activity Leader and Student Development Team
+    email: charlotte.lindstrom.vasteras@engelska.se
+
+- School Counselor:
+
+  - name: Helena Kalldin
+    title: Counselor
+
+- School Nurse:
+
+  - name: Gabrielle Henriksson
+    title: School Nurse
+
+  - name: Kristina Eriksson
+    title: School Nurse
+
+- Junior Club:
+
+  - name: Charlotte Lindström
+    title: Head of Junior Club - Activity Leader and Student Development Team
+    email: charlotte.lindstrom.vasteras@engelska.se
+
+  - name: Katelyn Lyons
+    title: Junior Club - School Assistant 
+    email: katelyn.lyons.vasteras@engelska.se
+
+- Student Lounge:
+
+  - name: Jonas Lehtonen
+    title:  Head of Student Development Team - Student Lounge
+    email: jonas.lehtonen.vasteras@engelska.se
+
+- Librarian:
+
+  - name: Tina Lempeä
+    title: Librarian
+    email: tina.lempea.vasteras@engelska.se
