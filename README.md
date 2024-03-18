@@ -23,10 +23,15 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
   * OPML collections nightly
     * PodcastIndex extracts [https://b19.se/data/opml/podcastindex/](https://b19.se/data/opml/podcastindex/)
     * Mirrored OPMLs [https://b19.se/data/opml/mirrored/](https://b19.se/data/opml/mirrored/)
+    * Podping daily OPMLs [https://b19.se/data/opml/podping/](https://b19.se/data/opml/podping/)
   * Podcast [namespace collection](https://gist.github.com/cisene/cf67d4fc9d4d4dc892630cac4a3adcb0) - there is many namespaces, but PodcastIndex have a [namespace](https://github.com/Podcastindex-org/podcast-namespace) to rule them all.
   * Podcast search with PI as backend for
     * Sonos devices
     * Kodi and mediacenter devices
+
+* [FindThatPod](https://findthatpod.com/)
+  * Issues and special OPMLs [https://b19.se/data/opml/findthatpod/](https://b19.se/data/opml/findthatpod/)
+  * Source [repo](https://github.com/cisene/findthatpod-opml)
 
 * Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
   * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
