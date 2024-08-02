@@ -12,7 +12,7 @@ computers:
   os: Debian 3.0 Woody
   manufacturer: Fujitsu
   model: ErgoPro x
-  description: This is/was my primary workstation.
+  description: This was my primary workstation.
 
 - name: Berlin
   cpu: Intel Pentium 100Mhz (F0 0F Bug)
