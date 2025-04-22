@@ -36,7 +36,7 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 * Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
   * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
   * Swedish Banks [clearing numbers](https://github.com/cisene/data-available/blob/master/SE/banker/clearingnummer-2023.yaml)
-  * Swedish [Person numbers](https://github.com/cisene/data-available/blob/master/SE/myndigheter/skatteverket/personnummer/2023/Testpersonnummer_2023.csv)
+  * Swedish [Person numbers](https://github.com/cisene/data-available/blob/master/SE/myndigheter/skatteverket/personnummer/)
   * Swedish [Nationella kort/SITHS kort](https://github.com/cisene/data-available/blob/master/SE/nationella-kort/nationella-kort.md)
   * USA [CTA-Member directory](https://github.com/cisene/data-available/blob/master/US/CTA-member-directory.yaml)
 
