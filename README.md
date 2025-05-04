@@ -8,7 +8,12 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 
 * Restoration of [Daily Source Code Podcast](https://en.wikipedia.org/wiki/Daily_Source_Code) [RSS](https://github.com/cisene/daily-source-code-podcast) feed
   * Archeological diggings and finds, Adam Curry's experimental [iPod](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod) script.
-
+  * Transcribing Audio files to text in SRT and VTT formats.
+  * Mapping episodes to geographical locations (Podcasting 2.0).
+  * Mapping episodes to people (host, guests) (Podcasting 2.0).
+  * Propping up episodes with other Podcasting 2.0 tags.
+  * Populating Audio files (MP3) with values from RSS-feed where needed.
+  
 * Swedish [Swish 123-numbers](https://github.com/cisene/swish-123) directory for companies and associations
   * [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers - online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
 
