@@ -7,26 +7,37 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
 ## Some of the things I'm currently working on;
 
 * Restoration of [Daily Source Code Podcast](https://en.wikipedia.org/wiki/Daily_Source_Code) [RSS](https://github.com/cisene/daily-source-code-podcast) feed
-  * Archeological diggings and finds, Adam Curry's experimental [iPod](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod) script.
+  * Archaeological diggings and finds, Adam Curry's experimental [iPod](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod) script.
   * Transcribing Audio files to text in SRT and VTT formats.
   * Mapping episodes to geographical locations (Podcasting 2.0).
   * Mapping episodes to people (host, guests) (Podcasting 2.0).
   * Propping up episodes with other Podcasting 2.0 tags.
   * Populating Audio files (MP3) with values from RSS-feed where needed.
- 
+
   Read more about [Podcasting 2.0](https://podcasting2.org/).
   
-* Swedish [Swish 123-numbers](https://github.com/cisene/swish-123) directory for companies and associations
-  * [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers - online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
-
+  
+  
+* Swedish Swish number directory for companies and associations
+  
+  * Repo [Swish 123-numbers](https://github.com/cisene/swish-123) for all the data
+  * Repo [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers
+  * Online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
+  
+  
+  
 * [SE-POI](https://github.com/cisene/se-poi) Swedish POI, Points-of-Interest .. as to scratch an itch for another project.
+
   * [Svenskt Hålindex](https://github.com/cisene/svenskt-halindex) - Swedish: "Ett unikt sätt att klassificera svenska hålor".
 
+  
+
 * [PodcastIndex.org](https://podcastindex.org/):
+
   * I run web spiders to discover new podcast feeds
   * I've added more than 3.5 Million feeds this far.
   * Mapping of languages, all of ISO-639 (ISO-639-1, ISO-639-2B, ISO-639-2T and ISO-639-3) minus sign languages which does not make much sense in regards of audio/video podcasts - not yet active.
-  * Self-contained OPML-Editor, with Import/Export functionality with PodcastIndex as search backend. (PHP)
+  * Self-contained OPML-Editor, with Import/Export functionality with PodcastIndex.org as search backend. (PHP)
   * OPML collections nightly
     * PodcastIndex extracts [https://b19.se/data/opml/podcastindex/](https://b19.se/data/opml/podcastindex/)
     * Mirrored OPMLs [https://b19.se/data/opml/mirrored/](https://b19.se/data/opml/mirrored/)
@@ -37,10 +48,15 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
     * Kodi and mediacenter devices
 
 * [FindThatPod](https://findthatpod.com/)
+
   * Issues and special OPMLs [https://b19.se/data/opml/findthatpod/](https://b19.se/data/opml/findthatpod/)
   * Source [repo](https://github.com/cisene/findthatpod-opml)
 
-* Useful datasets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
+* [Earbuds Podcast Recommendations](https://newsletter.earbuds.audio/)
+  * Issues as OPML at [https://b19.se/data/opml/earbuds/](https://b19.se/data/opml/earbuds/)
+  * Source [repo](https://github.com/cisene/earbuds-opml)
+
+* Useful data sets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
   * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
   * Swedish Banks [clearing numbers](https://github.com/cisene/data-available/blob/master/SE/banker/clearingnummer-2023.yaml)
   * Swedish [Person numbers](https://github.com/cisene/data-available/blob/master/SE/myndigheter/skatteverket/personnummer/)
@@ -80,3 +96,7 @@ Payment address: `cisene*keybase.io`
 Lightning Address: `0332d57355d673e217238ce3e4be8491aa6b2a13f95494133ee243e57df1653ace`
 
 Fountain address `trickler@fountain.fm`
+
+
+
+I and my family got caught up in a weird situation a few years ago with our then two year old, I blogged about it to not go completely insane; [The Move](https://github.com/cisene/cisene/blob/main/stuff/the-move/the-move.pdf)
