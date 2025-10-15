@@ -38,24 +38,23 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
   * I've added more than 3.5 Million feeds this far.
   * Mapping of languages, all of ISO-639 (ISO-639-1, ISO-639-2B, ISO-639-2T and ISO-639-3) minus sign languages which does not make much sense in regards of audio/video podcasts - not yet active.
   * Self-contained OPML-Editor, with Import/Export functionality with PodcastIndex.org as search backend. (PHP)
-  * OPML collections nightly
+  * OPML collections
     * PodcastIndex extracts [https://b19.se/data/opml/podcastindex/](https://b19.se/data/opml/podcastindex/)
     * Mirrored OPMLs [https://b19.se/data/opml/mirrored/](https://b19.se/data/opml/mirrored/)
-    * Podping daily OPMLs [https://b19.se/data/opml/podping/](https://b19.se/data/opml/podping/)
-  * Podcast [namespace collection](https://gist.github.com/cisene/cf67d4fc9d4d4dc892630cac4a3adcb0) - there is many namespaces, but PodcastIndex have a [namespace](https://github.com/Podcastindex-org/podcast-namespace) to rule them all.
-  * Podcast search with PI as backend for
-    * Sonos devices
-    * Kodi and mediacenter devices
+    * PlayerFM OPMLs [https://b19.se/data/opml/playerfm/](https://b19.se/data/opml/playerfm/)
+    * PocketCast OPMLs [https://b19.se/data/opml/pocketcasts/](https://b19.se/data/opml/pocketcasts/)
+    * The End OPMLs [https://b19.se/data/opml/theend-fyi/](https://b19.se/data/opml/theend-fyi/)
+    * Value4Value OPMLs [https://b19.se/data/opml/value4value/](https://b19.se/data/opml/value4value/)
 
 * [FindThatPod](https://findthatpod.com/)
 
   * Issues and special OPMLs [https://b19.se/data/opml/findthatpod/](https://b19.se/data/opml/findthatpod/)
+
   * Source [repo](https://github.com/cisene/findthatpod-opml)
 
 * [Earbuds Podcast Recommendations](https://newsletter.earbuds.audio/)
   * Issues as OPML at [https://b19.se/data/opml/earbuds/](https://b19.se/data/opml/earbuds/)
   * Source [repo](https://github.com/cisene/earbuds-opml)
-
 * Useful data sets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
   * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
   * Swedish Banks [clearing numbers](https://github.com/cisene/data-available/blob/master/SE/banker/clearingnummer-2023.yaml)
