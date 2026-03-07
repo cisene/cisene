@@ -1,6 +1,11 @@
 # Christopher Isene
 
 
+I'm in the process of moving most of my stuff to Codeberg as Github .. is Github. One project at a time.
+
+My [Github repos](https://github.com/cisene)
+My [Codeberg repos](https://codeberg.org/cisene)
+
 
 I'm working on plenty of stuff at all times, I have a hungry mind and I need to keep my brain occupied.
 
