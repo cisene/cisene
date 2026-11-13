@@ -8,35 +8,29 @@ My [Github repos](https://github.com/cisene)
 My [Codeberg repos](https://codeberg.org/cisene)
 
 
+## Some projects completed
+
+* [[Daily Source Code Podcast](https://thedailysourccode.com/)](https://thedailysourcecode.com/)
+  * [RSS Feed](https://thedailysourcecode.com/rss.xml)
+  * [Source Repo](https://github.com/cisene/daily-source-code-podcast)
+  * [iPod Script](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod)
+
 
 
 I'm working on plenty of stuff at all times, I have a hungry mind and I need to keep my brain occupied.
 
 ## Some of the things I'm currently working on;
 
-* Restoration of [Daily Source Code Podcast](https://en.wikipedia.org/wiki/Daily_Source_Code) [RSS](https://github.com/cisene/daily-source-code-podcast) feed
-  * Archaeological diggings and finds, Adam Curry's experimental [iPod](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod) script.
-  * Transcribing Audio files to text in SRT and VTT formats.
-  * Mapping episodes to geographical locations (Podcasting 2.0).
-  * Mapping episodes to people (host, guests) (Podcasting 2.0).
-  * Propping up episodes with other Podcasting 2.0 tags.
-  * Populating Audio files (MP3) with values from RSS-feed where needed.
-
-  Read more about [Podcasting 2.0](https://podcasting2.org/).
-  
-  
-  
 * Swedish Swish number directory for companies and associations
   
   * Repo [Swish 123-numbers](https://github.com/cisene/swish-123) for all the data
   * Repo [Swish-Katalogen](https://github.com/cisene/swish-katalogen) - A simple search engine for data from the Swish 123-numbers
   * Online: [Swish-Katalogen](https://b19.se/swish-katalogen/)
-  
-  
+    
   
 * [SE-POI](https://github.com/cisene/se-poi) Swedish POI, Points-of-Interest .. as to scratch an itch for another project.
 
-  * [Svenskt Hålindex](https://github.com/cisene/svenskt-halindex) - Swedish: "Ett unikt sätt att klassificera svenska hålor".
+* [Svenskt Hålindex](https://github.com/cisene/svenskt-halindex) - Swedish: "Ett unikt sätt att klassificera svenska hålor".
 
   
 
@@ -54,15 +48,17 @@ I'm working on plenty of stuff at all times, I have a hungry mind and I need to 
     * The End OPMLs [https://b19.se/data/opml/theend-fyi/](https://b19.se/data/opml/theend-fyi/)
     * Value4Value OPMLs [https://b19.se/data/opml/value4value/](https://b19.se/data/opml/value4value/)
 
+
 * [FindThatPod](https://findthatpod.com/)
-
   * Issues and special OPMLs [https://b19.se/data/opml/findthatpod/](https://b19.se/data/opml/findthatpod/)
-
   * Source [repo](https://github.com/cisene/findthatpod-opml)
+
 
 * [Earbuds Podcast Recommendations](https://newsletter.earbuds.audio/)
   * Issues as OPML at [https://b19.se/data/opml/earbuds/](https://b19.se/data/opml/earbuds/)
   * Source [repo](https://github.com/cisene/earbuds-opml)
+ 
+
 * Useful data sets, my attempts at fixing the world; [Data Available](https://github.com/cisene/data-available)
   * Shoe sizes in millimeter, JP, EU, CN and US [shoe-sizes](https://github.com/cisene/data-available/blob/master/INT/shoe-sizes.yaml)
   * Swedish Banks [clearing numbers](https://github.com/cisene/data-available/blob/master/SE/banker/clearingnummer-2023.yaml)
