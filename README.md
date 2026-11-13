@@ -10,7 +10,7 @@ My [Codeberg repos](https://codeberg.org/cisene)
 
 ## Some projects completed
 
-* [[Daily Source Code Podcast](https://thedailysourccode.com/)](https://thedailysourcecode.com/)
+* [Daily Source Code Podcast](https://thedailysourccode.com/) - This is one of the earliest podcasts that went popular and public, Adam Curry's Daily Source Code podcast that ran between 2004 and 2013, 863 episode + lots of specials.
   * [RSS Feed](https://thedailysourcecode.com/rss.xml)
   * [Source Repo](https://github.com/cisene/daily-source-code-podcast)
   * [iPod Script](https://github.com/cisene/daily-source-code-podcast/tree/main/iPod)
